@@ -1,0 +1,24 @@
+body{margin: 0px;padding: 0px;background: #f1f1f1;}
+.header{background: #563d7c;width: 100%;height: 50px;color:#ffffff;}
+.header .title{line-height: 50px;font-size: 18px;float: left;}
+.header .search{width: 300px;float: left;line-height: 50px;margin-left: 50px;}
+.header .search input{float: unset;}
+
+.header .login-reg{float: right;line-height: 50px;}
+.header .login-reg button{padding: 6px 25px;margin: 0px 15px;}
+
+.main{border: 1px solid #cdcdcd;min-height: 800px;background: #fff;border-radius: 4px;margin-top: 20px;}
+.main .left-container{border-right: 1px solid #cdcdcd;min-height: 800px;}
+
+.main .cates{color: #666;font-size: 16px;margin-top: 20px;border-bottom: 1px solid #f1f1f1;padding-bottom: 10px;}
+.main .cate-list .cate-item{margin: 10px 0px;}
+
+.main .nav{border-bottom: 1px solid #f1f1f1;margin-top: 30px;}
+.main .nav a{float: right;color: #666;padding: 0px 10px;padding-bottom: 5px;}
+.main .nav .active{font-weight: bold;border-bottom: 2px solid #337ab7;}
+
+.main .content-item{border-bottom: 1px solid #f1f1f1;padding: 10px 0px;float: left;width: 100%;}
+.main .content-item img{width: 40px;border-radius: 6px;float: left;}
+.main .content-item .title{float: left;margin-left: 15px;font-size: 12px;color: #666}
+.main .content-item .title p{margin-bottom: 5px;}
+.main .content-item .title span{margin-right: 10px;}
